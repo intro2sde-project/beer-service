@@ -1,6 +1,6 @@
 # beer-service
 
 
-API
+## API
 
 beerecom.docs.apiary.io
